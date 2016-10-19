@@ -1,6 +1,6 @@
 # FileApps
 
-This is a C++ dynamic ibrary program to expand capabilities in the Qt SQL library to facilitate better functionality, 
+This is a C++ dynamic ibrary program to expand capabilities in the Qt File operation library to facilitate better functionality, 
 at least for my work.
 
 ## Getting Started
